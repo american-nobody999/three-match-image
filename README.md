@@ -7,3 +7,7 @@ adding image repo for my sanity
 3. reformat and name images in series for better management
 4. all content is collected in screenshots--do not use jpg or png
 5. idea--screen shots of the written voices and stories as images for now--
+
+//Update 06/16/2026//
+1. adding folders for better asset manangement of site
+2. maint folder will include all background images and link images
